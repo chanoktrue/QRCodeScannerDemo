@@ -1,4 +1,1 @@
 # QRCodeScannerDemo
-# QRCodeScannerDemo
-# QRCodeScannerDemo
-# QRCodeScannerDemo
